@@ -1,0 +1,35 @@
+{
+"type":"FeatureCollection",
+
+"features":[
+
+{
+"type":"Feature",
+
+"properties":{
+
+"name":"Askolan Hiidenkirnut",
+
+"region":"Uusimaa",
+
+"municipality":"Askola",
+
+"description":"One of Finland's most famous groups of giant kettles.",
+
+"image":"assets/images/hero.jpg"
+
+},
+
+"geometry":{
+
+"type":"Point",
+
+"coordinates":[25.6438,60.5335]
+
+}
+
+}
+
+]
+
+}
