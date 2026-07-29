@@ -4,21 +4,77 @@
 "features":[
 
 {
+
 "type":"Feature",
 
 "properties":{
 
-"name":"Askolan Hiidenkirnut",
+
+"id":"ASK001",
+
+
+"name_en":"Askolan Hiidenkirnut",
+
+"name_fi":"Askolan hiidenkirnut",
+
+
+"group":"Askola Giant Kettles",
+
 
 "region":"Uusimaa",
 
+
 "municipality":"Askola",
 
-"description":"One of Finland's most famous groups of giant kettles.",
 
-"image":"assets/images/hero.jpg"
+"country":"Finland",
+
+
+"description_en":
+"One of Finland's best known groups of giant kettles formed after the Ice Age.",
+
+
+"description_fi":
+"Yksi Suomen tunnetuimmista hiidenkirnujen ryhmistä.",
+
+
+"type":"Giant kettles",
+
+
+"size_category":"Large",
+
+
+"depth_m":"10.3",
+
+
+"diameter_m":"6.8",
+
+
+"accessibility":"Easy hiking trail",
+
+
+"visit_time":"1-2 hours",
+
+
+"parking":true,
+
+
+"trail":true,
+
+
+"image":
+"assets/images/hero.jpg",
+
+
+"source":
+"Local geological information",
+
+
+"verified":true
+
 
 },
+
 
 "geometry":{
 
